@@ -3,7 +3,7 @@
     <HeaderBar />
     <div class="main-section columns">
       <main class="column">
-        <Heroes />
+        <router-view><router-view>
       </main>
     </div>
   </div>
